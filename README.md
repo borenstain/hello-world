@@ -1,4 +1,4 @@
 # hello-world
 Hello there,
-I am asting the taste of Python for some engineering projects.
+I am tasting the taste of Python for some engineering projects.
 Lets see where it will take me.
